@@ -1,73 +1,7 @@
 {
-  "generated_at": "2025-10-14T23:16:51.514487+08:00",
-  "total_titles_processed": 2120,
+  "generated_at": "2025-10-15T00:20:09.946049+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "业内：黄金价格仍然有上涨冲动",
-          "url": "https://www.toutiao.com/trending/7561048370240818727/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时27分 ~ 22时16分]"
-        },
-        {
-          "title": "微软遭遇反垄断集体诉讼，被指抬高ChatGPT价格",
-          "url": "https://flash.jin10.com/detail/20251014055122671800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时21分]"
-        },
-        {
-          "title": "一份诉讼文件显示：微软造成OpenAI对ChatGPT提高价格。 微软被控对OpenAI限制算力供应，进而违反美国联邦和加州反垄断法律。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2986954",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时29分 ~ 06时25分]"
-        },
-        {
-          "title": "瑞芯微：预计前三季度净利润7.6亿元到8亿元，同比增长116%到127%；由于DDR4存储芯片从供应短缺到价格暴涨，促使部分客户中高端AIoT产品向DDR5转型，方案调整时间影响短期需求，导致三季度业绩增长略缓，随后会继续快速增长。",
-          "url": "https://wallstreetcn.com/livenews/2987472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "盛屯矿业：全资下属公司盛屯黄金安大略拟以每股1.38加元的价格，现金方式收购Loncor现有全部已发行且流通的普通股及待稀释股份。收购完成后，公司将通过买方持有Loncor 100%股权。本次收购的交易金额约为2.61亿加元，约合1.9亿美元，人民币13.5亿元。",
-          "url": "https://wallstreetcn.com/livenews/2987520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时30分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://Hallecy.github.io/TrendRadar/img/news.jpg"
 }
