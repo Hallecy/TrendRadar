@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T11:40:46.881654+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2025-10-16T12:18:55.480442+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "澳新银行将今年底黄金价格预测上调至每盎司4400美元，预计到2026年6月将达到近每盎司4600美元的峰值。",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "金十整理：现货黄金连续4个交易日创新高，各大投行黄金价格预期一览",
+          "url": "https://flash.jin10.com/detail/20251016114935655800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
           "title": "澳新银行：明年6月黄金价格将达到4600美元的峰值",
