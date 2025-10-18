@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T22:14:02.707790+08:00",
-  "total_titles_processed": 1569,
+  "generated_at": "2025-10-18T23:13:45.312297+08:00",
+  "total_titles_processed": 1617,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时26分 ~ 22时14分]"
+          "appearance_count": 6,
+          "time_info": "[20时26分 ~ 23时13分]"
         },
         {
           "title": "黄金价格“抛物线式”上涨",
