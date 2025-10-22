@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T19:14:12.855581+08:00",
-  "total_titles_processed": 1793,
+  "generated_at": "2025-10-22T20:31:23.231617+08:00",
+  "total_titles_processed": 1905,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "今日头条",
           "ranks": [
             10,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时16分 ~ 19时14分]"
+          "appearance_count": 5,
+          "time_info": "[18时16分 ~ 20时31分]"
         }
       ]
     }
