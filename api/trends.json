@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T11:02:05.976660+08:00",
-  "total_titles_processed": 964,
+  "generated_at": "2025-10-23T11:40:25.709665+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7564185395232001575/",
           "source": "今日头条",
           "ranks": [
-            1
+            1,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时02分]"
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 11时40分]"
         },
         {
           "title": "黄金价格大跳水 金价到顶了吗",
