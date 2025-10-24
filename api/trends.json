@@ -1,25 +1,7 @@
 {
-  "generated_at": "2025-10-24T23:16:56.033981+08:00",
-  "total_titles_processed": 2218,
+  "generated_at": "2025-10-25T00:19:10.516806+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "交易员为今晚的美国CPI数据做准备，现货金银价格在亚盘小幅走低，黄金多头小心谨慎，白银多头大步迈进，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20251024103858767800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://Hallecy.github.io/TrendRadar/img/news.jpg"
 }
