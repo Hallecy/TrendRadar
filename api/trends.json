@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T23:14:54.806282+08:00",
-  "total_titles_processed": 2094,
+  "generated_at": "2025-11-01T00:19:55.450147+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,11 @@
           "url": "https://wallstreetcn.com/livenews/2997790",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时14分"
+          "time_info": "00时19分"
         }
       ]
     }
