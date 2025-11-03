@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T18:19:31.161744+08:00",
-  "total_titles_processed": 1345,
+  "generated_at": "2025-11-03T19:15:21.973737+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "黄金税收新规出台后，招行实体金条价格已含税",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时19分 ~ 18时19分]"
+        },
+        {
+          "title": "瑞银：如果政治或金融市场波动再次加剧，黄金价格存在上行风险，可能升至4700美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251103181615614800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "土耳其中央银行以传统方式（多重价格招标）启动3吨黄金的1周期“黄金换里拉”卖方掉期拍卖。",
