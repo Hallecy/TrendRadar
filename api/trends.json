@@ -1,28 +1,7 @@
 {
-  "generated_at": "2025-11-04T23:17:03.541788+08:00",
-  "total_titles_processed": 2039,
+  "generated_at": "2025-11-05T00:19:47.051257+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄金税收新规出台后，工行、建行暂停受理提取实体金条，招行金条价格已含税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31881405",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时18分 ~ 16时22分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://Hallecy.github.io/TrendRadar/img/news.jpg"
 }
