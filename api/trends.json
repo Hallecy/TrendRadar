@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T07:14:53.837911+08:00",
-  "total_titles_processed": 680,
+  "generated_at": "2025-11-06T09:07:09.438006+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2192184",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时19分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 09时07分]"
         },
         {
           "title": "Mosaic：玉米和大豆价格的复苏应当有助于化肥的应用。",
