@@ -1,25 +1,7 @@
 {
-  "generated_at": "2025-11-07T23:16:02.957841+08:00",
-  "total_titles_processed": 2060,
+  "generated_at": "2025-11-08T00:18:13.949513+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "道富环球：将黄金价格基准预测上调至3700-4100美元",
-          "url": "https://flash.jin10.com/detail/20251107105336180800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时07分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://Hallecy.github.io/TrendRadar/img/news.jpg"
 }
