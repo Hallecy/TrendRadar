@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T11:36:47.596308+08:00",
-  "total_titles_processed": 877,
+  "generated_at": "2025-11-08T12:18:38.493474+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时00分 ~ 11时36分]"
+          "appearance_count": 3,
+          "time_info": "[11时00分 ~ 12时18分]"
         },
         {
           "title": "周大福、周大生足金价格均为1268元/克，涨幅约0.71%",
