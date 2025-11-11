@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T18:17:46.561953+08:00",
-  "total_titles_processed": 1583,
+  "generated_at": "2025-11-11T19:14:19.013908+08:00",
+  "total_titles_processed": 1673,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "摩根大通私人银行：黄金价格到明年底有望突破5,000美元",
@@ -18,6 +18,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时14分]"
+        },
+        {
+          "title": "德商银行：预计未来一年白银价格将为50美元/盎司，铂金价格将达到1,700美元/盎司，钯金价格将达到1,400美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251111185400884800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "德商银行：预计未来一年黄金价格将达到4,200美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251111185300227800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "软银集团：已于10月以58.3亿美元的价格出售所持英伟达股份。",
