@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-13T17:19:19.286656+08:00",
-  "total_titles_processed": 1527,
+  "generated_at": "2025-11-13T18:17:46.704712+08:00",
+  "total_titles_processed": 1617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "受政府停摆结束和降息预期提振 黄金价格突破4200美元",
+          "url": "https://flash.jin10.com/detail/20251113175418788800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
         {
           "title": "渣打银行：维持四季度黄金价格预期均值在4000美元/盎司不变。 预计黄金价格将在2026年一季度面临上行风险的积聚。",
           "url": "https://wallstreetcn.com/livenews/3003663",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "黄金价格延续涨势 升至三周高点",
+          "url": "https://www.toutiao.com/trending/7572078083620998697/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         }
       ]
     }
