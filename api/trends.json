@@ -1,7 +1,21 @@
 {
-  "generated_at": "2025-11-18T20:30:32.785226+08:00",
+  "generated_at": "2025-11-18T21:32:45.768274+08:00",
   "total_titles_processed": 1781,
-  "failed_sources": [],
+  "failed_sources": [
+    "toutiao",
+    "baidu",
+    "wallstreetcn-hot",
+    "thepaper",
+    "bilibili-hot-search",
+    "cls-hot",
+    "ifeng",
+    "jin10",
+    "wallstreetcn-quick",
+    "tieba",
+    "weibo",
+    "douyin",
+    "zhihu"
+  ],
   "trends": [],
   "report_image_url": "https://Hallecy.github.io/TrendRadar/img/news.jpg"
 }
