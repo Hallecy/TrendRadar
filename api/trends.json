@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T13:16:17.409059+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2025-11-25T14:24:01.460833+08:00",
+  "total_titles_processed": 1213,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 14时24分]"
         },
         {
           "title": "美国银行：黄金价格2026年或将达到5000美元",
