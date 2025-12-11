@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-12-11T23:18:47.506227+08:00",
-  "total_titles_processed": 2188,
+  "generated_at": "2025-12-12T00:22:37.407998+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI创始人奥尔特曼：看到Sora视频生成领域的价格弹性。",
+          "url": "https://flash.jin10.com/detail/20251211234938201800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://Hallecy.github.io/TrendRadar/img/news.jpg"
 }
