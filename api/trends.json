@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T23:17:44.890921+08:00",
-  "total_titles_processed": 2176,
+  "generated_at": "2025-12-13T00:19:03.213539+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI创始人奥尔特曼：看到Sora视频生成领域的价格弹性。",
-          "url": "https://flash.jin10.com/detail/20251211234938201800",
+          "title": "渣打银行：黄金价格将于2026年再创新高",
+          "url": "https://flash.jin10.com/detail/20251212233842296800",
           "source": "金十数据",
           "ranks": [
-            25
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时22分"
+          "time_info": "00时19分"
         }
       ]
     }
