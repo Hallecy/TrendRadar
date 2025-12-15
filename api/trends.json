@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-12-15T20:34:13.324238+08:00",
-  "total_titles_processed": 1614,
+  "generated_at": "2025-12-15T21:37:39.208264+08:00",
+  "total_titles_processed": 1713,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场分析：受美国降息预期和避险需求提振，黄金价格上涨",
+          "url": "https://flash.jin10.com/detail/20251215210622146800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://Hallecy.github.io/TrendRadar/img/news.jpg"
 }
