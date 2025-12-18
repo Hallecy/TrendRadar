@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-12-19T00:22:05.919596+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-19T01:19:47.509334+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高盛：黄金价格到2026年12月可能上涨14%，达到每盎司4900美元。基准情景存在上行风险。",
+          "url": "https://flash.jin10.com/detail/20251219010727290800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://Hallecy.github.io/TrendRadar/img/news.jpg"
 }
