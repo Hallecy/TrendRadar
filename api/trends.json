@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T09:11:30.534654+08:00",
-  "total_titles_processed": 885,
+  "generated_at": "2025-12-19T11:20:15.898683+08:00",
+  "total_titles_processed": 1052,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "高盛：黄金价格到2026年12月可能上涨14%，达到每盎司4900美元。基准情景存在上行风险。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "2026黄金价格展望",
+          "url": "https://www.toutiao.com/trending/7585030477258427914/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
         },
         {
           "title": "高盛：黄金价格到2026年12月可能上涨14%，达到每盎司4900美元。基准情景存在上行风险。 预计2026年铜价的表现将优于铝价，预测在基准情景下，2026年铜价将盘整，平均价格为每吨11,400美元。 重申2035年铜价将达15,000美元的预测，并继续推荐做多铜、做空铝的交易策略。 预计到2026年底，铝价将从当前现货价格下跌19%，降至每吨2350美元。 预计到2026年底，铁矿石现货价格将下跌15%，至每吨88美元。",
