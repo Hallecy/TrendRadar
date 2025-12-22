@@ -1,27 +1,7 @@
 {
-  "generated_at": "2025-12-22T23:16:52.825184+08:00",
-  "total_titles_processed": 1901,
+  "generated_at": "2025-12-23T00:19:38.890639+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄金白银价格创新高",
-          "url": "https://www.douyin.com/hot/2344085",
-          "source": "抖音",
-          "ranks": [
-            10,
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时20分 ~ 19时14分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://Hallecy.github.io/TrendRadar/img/news.jpg"
 }
