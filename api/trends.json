@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T14:25:33.420739+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2025-12-24T15:20:16.942410+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "数据分析公司Crisil Coalition Greenwich的数据显示，在黄金和白银价格飙升的背景下，今年前九个月，主要银行贵金属交易部门的收入比2024年同期增长了50%。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时20分 ~ 14时25分]"
+        },
+        {
+          "title": "赛诺菲(SNY.O)以每股15.50美元的现金价格收购Dynavax公司的所有流通股。交易预计于2026年第一季度完成。",
+          "url": "https://flash.jin10.com/detail/20251224141858552800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         }
       ]
     }
