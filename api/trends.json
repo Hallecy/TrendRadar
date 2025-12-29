@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T18:18:49.663420+08:00",
-  "total_titles_processed": 1429,
+  "generated_at": "2025-12-29T19:14:53.540477+08:00",
+  "total_titles_processed": 1508,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时18分]"
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时14分]"
         },
         {
           "title": "瑞银：2026年前三个季度黄金目标价为每盎司5,000美元（此前预计为每盎司4500美元）。 预计到2026年底，黄金价格将小幅下跌至每盎司4,800美元。",
