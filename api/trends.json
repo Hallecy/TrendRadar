@@ -1,39 +1,7 @@
 {
-  "generated_at": "2025-12-30T23:17:26.282276+08:00",
-  "total_titles_processed": 1942,
+  "generated_at": "2025-12-31T00:20:51.464451+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价跌至每盎司 4346 美元，白银跌幅一度逼近 9%，为何国际金、银价格会大幅下跌？",
-          "url": "https://www.zhihu.com/question/1989248950952288367",
-          "source": "知乎",
-          "ranks": [
-            11,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时34分 ~ 16时22分]"
-        },
-        {
-          "title": "如何看待黄金白银价格波动",
-          "url": "https://www.douyin.com/hot/2351661",
-          "source": "抖音",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时19分 ~ 14时25分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://Hallecy.github.io/TrendRadar/img/news.jpg"
 }
