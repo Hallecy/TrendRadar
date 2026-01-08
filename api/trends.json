@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T16:23:17.518830+08:00",
-  "total_titles_processed": 1453,
+  "generated_at": "2026-01-08T17:23:55.644291+08:00",
+  "total_titles_processed": 1571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "智谱预计全球AI公司将陷入价格战",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时25分 ~ 12时35分]"
+        },
+        {
+          "title": "汇丰银行：受地缘政治风险和财政债务上升影响，黄金价格或在2026年上半年触及5000美元/盎司；交易波动性水平可能较高。",
+          "url": "https://flash.jin10.com/detail/20260108171213389800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         }
       ]
     }
