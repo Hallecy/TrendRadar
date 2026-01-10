@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-01-10T23:15:03.559418+08:00",
-  "total_titles_processed": 1660,
+  "generated_at": "2026-01-11T00:18:14.988763+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中信证券：特朗普任期内黄金价格将因委内瑞拉事件加速上行",
-          "url": "https://flash.jin10.com/detail/20260110115435338800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            8,
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时30分 ~ 15时15分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://Hallecy.github.io/TrendRadar/img/news.jpg"
 }
