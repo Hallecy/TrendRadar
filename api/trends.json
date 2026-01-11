@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-01-11T12:43:42.717917+08:00",
-  "total_titles_processed": 697,
-  "failed_sources": [],
+  "generated_at": "2026-01-11T13:21:57.307041+08:00",
+  "total_titles_processed": 733,
+  "failed_sources": [
+    "tieba"
+  ],
   "trends": [],
   "report_image_url": "https://Hallecy.github.io/TrendRadar/img/news.jpg"
 }
