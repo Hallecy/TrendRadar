@@ -1,49 +1,22 @@
 {
-  "generated_at": "2026-01-21T23:26:13.822032+08:00",
-  "total_titles_processed": 2175,
+  "generated_at": "2026-01-22T00:34:02.180935+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
           "url": "https://www.zhihu.com/question/1997239169450260384",
           "source": "知乎",
           "ranks": [
-            13,
-            7,
-            9,
-            8,
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时23分 ~ 23时26分]"
-        },
-        {
-          "title": "金十图示：2026年01月21日（周三）今日黄金饰品价格对比",
-          "url": "https://flash.jin10.com/detail/20260121115138760800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时40分 ~ 13时25分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：人工智能是一场“平台变革”。 需要建设数万亿美元规模的基础设施项目。 人工智能产业正在创造就业机会。 GPU租赁服务的现货价格正在上涨。",
-          "url": "https://wallstreetcn.com/livenews/3041219",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
+          "time_info": "[00时33分 ~ 00时34分]"
         }
       ]
     }
