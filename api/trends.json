@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T16:24:47.778090+08:00",
-  "total_titles_processed": 1500,
+  "generated_at": "2026-01-21T17:28:14.201377+08:00",
+  "total_titles_processed": 1606,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 16时24分]"
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 17时28分]"
         },
         {
           "title": "金十图示：2026年01月21日（周三）今日黄金饰品价格对比",
