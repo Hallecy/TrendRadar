@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T20:35:50.464888+08:00",
-  "total_titles_processed": 1895,
+  "generated_at": "2026-01-22T21:43:00.518967+08:00",
+  "total_titles_processed": 2001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
@@ -45,6 +45,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时15分 ~ 13时24分]"
+        },
+        {
+          "title": "「木头姐」称 2026 年特朗普的「里根经济学」会升级成功，美股、美元将上涨，而黄金价格或下跌，你怎么看？",
+          "url": "https://www.zhihu.com/question/1997600940497343798",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 21时43分]"
         },
         {
           "title": "高盛将2026年12月黄金价格预期上调500美元，至每盎司5400美元，原因是各国央行及交易所交易基金纷纷买入。",
