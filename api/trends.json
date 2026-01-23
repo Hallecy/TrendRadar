@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T20:34:46.567074+08:00",
-  "total_titles_processed": 1978,
+  "generated_at": "2026-01-23T21:39:19.079831+08:00",
+  "total_titles_processed": 2072,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             20,
             19,
             17,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时29分 ~ 20时34分]"
+          "appearance_count": 14,
+          "time_info": "[11时29分 ~ 21时39分]"
         },
         {
           "title": "现货黄金价格突破每盎司4940.78美元，创历史新高。",
