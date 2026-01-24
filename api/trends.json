@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-01-24T19:14:10.682143+08:00",
-  "total_titles_processed": 1337,
+  "generated_at": "2026-01-24T20:29:53.018375+08:00",
+  "total_titles_processed": 1417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
       "match_count": 3,
       "titles": [
+        {
+          "title": "iPhone Air官方价格暴跌2000元",
+          "url": "https://www.baidu.com/s?wd=iPhone+Air%E5%AE%98%E6%96%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C2000%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            4,
+            13,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 20时29分]"
+        },
         {
           "title": "iPhone Air官方价格暴跌2000元",
           "url": "https://www.toutiao.com/trending/7598387695761588278/",
@@ -20,20 +35,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时23分 ~ 17时16分]"
-        },
-        {
-          "title": "iPhone Air官方价格暴跌2000元",
-          "url": "https://www.baidu.com/s?wd=iPhone+Air%E5%AE%98%E6%96%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C2000%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            4,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时20分 ~ 19时14分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
