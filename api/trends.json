@@ -1,90 +1,33 @@
 {
-  "generated_at": "2026-01-25T23:15:43.764880+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2026-01-26T00:19:38.095690+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
           "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
           "url": "https://www.zhihu.com/question/1998457273891120214",
           "source": "知乎",
           "ranks": [
-            16,
-            7,
-            2,
-            1,
-            11,
-            12,
-            13
+            11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时49分 ~ 23时15分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
           "title": "湖南黄金：预计2025年度净利润12.70亿元-16.08亿元，同比增长50%-90%。报告期内，业绩上涨主要是公司金、锑、钨产品销售价格同比上涨。",
           "url": "https://wallstreetcn.com/livenews/3043358",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            5,
-            6,
-            12,
-            17,
-            21,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时21分 ~ 23时15分]"
-        },
-        {
-          "title": "iPhone Air官方价格暴跌2000元",
-          "url": "https://www.baidu.com/s?wd=iPhone+Air%E5%AE%98%E6%96%B9%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C2000%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            14,
-            25,
-            16,
-            13,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 07时15分]"
-        },
-        {
-          "title": "iPhone Air官方价格暴跌2000元",
-          "url": "https://www.toutiao.com/trending/7598387695761588278/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            29,
-            25,
-            28,
-            22,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 07时15分]"
-        },
-        {
-          "title": "白银价格跟随黄金狂飙",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E8%B7%9F%E9%9A%8F%E9%BB%84%E9%87%91%E7%8B%82%E9%A3%99%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时48分"
+          "time_info": "00时19分"
         }
       ]
     }
