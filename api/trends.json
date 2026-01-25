@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T22:15:16.389082+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-01-25T23:15:43.764880+08:00",
+  "total_titles_processed": 1355,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,26 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时49分 ~ 22时15分]"
+          "appearance_count": 17,
+          "time_info": "[11时49分 ~ 23时15分]"
+        },
+        {
+          "title": "湖南黄金：预计2025年度净利润12.70亿元-16.08亿元，同比增长50%-90%。报告期内，业绩上涨主要是公司金、锑、钨产品销售价格同比上涨。",
+          "url": "https://wallstreetcn.com/livenews/3043358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            5,
+            6,
+            12,
+            17,
+            21,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时21分 ~ 23时15分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -40,23 +58,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时18分 ~ 07时15分]"
-        },
-        {
-          "title": "湖南黄金：预计2025年度净利润12.70亿元-16.08亿元，同比增长50%-90%。报告期内，业绩上涨主要是公司金、锑、钨产品销售价格同比上涨。",
-          "url": "https://wallstreetcn.com/livenews/3043358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            6,
-            12,
-            17,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时21分 ~ 22时15分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
