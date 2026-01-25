@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T03:13:39.097729+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2026-01-26T04:18:34.018415+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 03时13分]"
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 04时18分]"
         },
         {
           "title": "湖南黄金：预计2025年度净利润12.70亿元-16.08亿元，同比增长50%-90%。报告期内，业绩上涨主要是公司金、锑、钨产品销售价格同比上涨。",
@@ -27,8 +28,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 04时18分]"
         }
       ]
     }
