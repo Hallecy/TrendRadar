@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T20:31:37.827753+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2026-01-25T21:29:47.669624+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时49分 ~ 20时31分]"
+          "appearance_count": 14,
+          "time_info": "[11时49分 ~ 21时29分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -50,11 +50,12 @@
             5,
             6,
             12,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时21分 ~ 20时31分]"
+          "appearance_count": 6,
+          "time_info": "[16时21分 ~ 21时29分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
