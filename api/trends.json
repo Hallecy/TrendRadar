@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T11:49:31.181294+08:00",
-  "total_titles_processed": 694,
+  "generated_at": "2026-01-25T12:48:36.923964+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -45,11 +45,23 @@
           "url": "https://www.zhihu.com/question/1998457273891120214",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 12时48分]"
+        },
+        {
+          "title": "白银价格跟随黄金狂飙",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E8%B7%9F%E9%9A%8F%E9%BB%84%E9%87%91%E7%8B%82%E9%A3%99%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时49分"
+          "time_info": "12时48分"
         }
       ]
     }
