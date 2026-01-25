@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T17:17:08.015001+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-01-25T18:17:13.884163+08:00",
+  "total_titles_processed": 1064,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时49分 ~ 17时17分]"
+          "appearance_count": 11,
+          "time_info": "[11时49分 ~ 18时17分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -62,11 +62,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 17时17分]"
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 18时17分]"
         },
         {
           "title": "白银价格跟随黄金狂飙",
