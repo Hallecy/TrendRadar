@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T19:17:54.849492+08:00",
-  "total_titles_processed": 1505,
+  "generated_at": "2026-01-26T20:35:38.150509+08:00",
+  "total_titles_processed": 1612,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,29 @@
             10,
             9,
             7,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时52分 ~ 19时17分]"
+          "appearance_count": 12,
+          "time_info": "[11时52分 ~ 20时35分]"
+        },
+        {
+          "title": "白银价格近期大幅上涨，不少人指向 AI 及算力设施建设的巨大消耗，这是主要原因吗？支撑该观点的依据是什么？",
+          "url": "https://www.zhihu.com/question/1998735057154744752",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            12,
+            11,
+            6,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时29分 ~ 20时35分]"
         },
         {
           "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
@@ -53,22 +71,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时19分 ~ 15时24分]"
-        },
-        {
-          "title": "白银价格近期大幅上涨，不少人指向 AI 及算力设施建设的巨大消耗，这是主要原因吗？支撑该观点的依据是什么？",
-          "url": "https://www.zhihu.com/question/1998735057154744752",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            12,
-            11,
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时29分 ~ 19时17分]"
         },
         {
           "title": "湖南黄金：预计2025年度净利润12.70亿元-16.08亿元，同比增长50%-90%。报告期内，业绩上涨主要是公司金、锑、钨产品销售价格同比上涨。",
