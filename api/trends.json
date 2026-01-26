@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T18:21:28.418925+08:00",
-  "total_titles_processed": 1408,
+  "generated_at": "2026-01-26T19:17:54.849492+08:00",
+  "total_titles_processed": 1505,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时52分 ~ 18时21分]"
+          "appearance_count": 11,
+          "time_info": "[11时52分 ~ 19时17分]"
         },
         {
           "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
@@ -32,11 +32,12 @@
             13,
             17,
             16,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时52分 ~ 18时21分]"
+          "appearance_count": 11,
+          "time_info": "[11时52分 ~ 19时17分]"
         },
         {
           "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
@@ -62,11 +63,12 @@
             4,
             12,
             11,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时29分 ~ 18时21分]"
+          "appearance_count": 8,
+          "time_info": "[14时29分 ~ 19时17分]"
         },
         {
           "title": "湖南黄金：预计2025年度净利润12.70亿元-16.08亿元，同比增长50%-90%。报告期内，业绩上涨主要是公司金、锑、钨产品销售价格同比上涨。",
@@ -87,7 +89,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         }
