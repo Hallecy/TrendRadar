@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T16:25:04.276352+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2026-01-26T17:29:26.648523+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "ranks": [
             6,
             13,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时52分 ~ 16时25分]"
+          "appearance_count": 9,
+          "time_info": "[11时52分 ~ 17时29分]"
         },
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -44,11 +45,12 @@
             11,
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时52分 ~ 16时25分]"
+          "appearance_count": 9,
+          "time_info": "[11时52分 ~ 17时29分]"
         },
         {
           "title": "白银价格近期大幅上涨，不少人指向 AI 及算力设施建设的巨大消耗，这是主要原因吗？支撑该观点的依据是什么？",
@@ -57,11 +59,12 @@
           "ranks": [
             5,
             4,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时29分 ~ 16时25分]"
+          "appearance_count": 6,
+          "time_info": "[14时29分 ~ 17时29分]"
         },
         {
           "title": "湖南黄金：预计2025年度净利润12.70亿元-16.08亿元，同比增长50%-90%。报告期内，业绩上涨主要是公司金、锑、钨产品销售价格同比上涨。",
