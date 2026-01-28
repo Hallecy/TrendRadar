@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T16:24:19.404005+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-01-28T17:29:49.317031+08:00",
+  "total_titles_processed": 1578,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "黄金价格大涨又大跌，是走还是留？",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 16时24分]"
+          "appearance_count": 21,
+          "time_info": "[00时23分 ~ 17时29分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
@@ -31,8 +31,19 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时40分 ~ 16时24分]"
+          "appearance_count": 8,
+          "time_info": "[12时40分 ~ 17时29分]"
+        },
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "德意志银行表示，如果美元持续疲软，投资者将增加对非美元资产和实体资产的配置，那么2026年黄金价格可能会达到每盎司6000美元。",
