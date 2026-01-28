@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T14:29:06.154397+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2026-01-28T15:22:08.029830+08:00",
+  "total_titles_processed": 1370,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 14时29分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 15时22分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
@@ -27,11 +27,12 @@
           "ranks": [
             8,
             24,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 14时29分]"
+          "appearance_count": 6,
+          "time_info": "[12时40分 ~ 15时22分]"
         },
         {
           "title": "德意志银行表示，如果美元持续疲软，投资者将增加对非美元资产和实体资产的配置，那么2026年黄金价格可能会达到每盎司6000美元。",
