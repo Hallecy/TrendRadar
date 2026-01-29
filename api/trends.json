@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T00:36:58.389239+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-30T01:33:26.627702+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时33分]"
         },
         {
           "title": "黄金、白银、比特币、美股全线走低，美债价格反弹，美元回升",
