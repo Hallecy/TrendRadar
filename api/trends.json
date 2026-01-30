@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T13:43:06.798583+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2026-01-30T14:40:18.375465+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "黄金价格为何一路猛涨",
@@ -15,8 +15,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 13时43分]"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 14时40分]"
         },
         {
           "title": "为什么 2026 年 1 月 29 日晚上的黄金价格出现大跳水？",
@@ -35,11 +35,23 @@
           "source": "微博",
           "ranks": [
             7,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 13时43分]"
+          "appearance_count": 5,
+          "time_info": "[12时04分 ~ 14时40分]"
+        },
+        {
+          "title": "黄金价格回调开始了吗",
+          "url": "https://www.toutiao.com/trending/7600951694344405055/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 14时40分]"
         },
         {
           "title": "黄金、白银、比特币、美股全线走低，美债价格反弹，美元回升",
