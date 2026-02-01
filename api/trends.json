@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-02-01T23:19:34.277601+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-02-02T00:22:33.033231+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "印度国家证券交易所：交易所交易黄金及白银ETF的参考价将基于前一交易日（T-1）资产净值，规定的20%较低价格区间适用于T-1的资产净值。",
-          "url": "https://flash.jin10.com/detail/20260201133200801800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 14时44分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://Hallecy.github.io/TrendRadar/img/news.jpg"
 }
