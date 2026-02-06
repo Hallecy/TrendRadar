@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-02-06T23:34:59.397067+08:00",
-  "total_titles_processed": 2159,
+  "generated_at": "2026-02-07T00:37:36.541699+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "贵金属价格剧烈波动，上期所再度对黄金、白银等期货提保扩板",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32543462",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 09时25分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://Hallecy.github.io/TrendRadar/img/news.jpg"
 }
