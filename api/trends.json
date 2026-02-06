@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T05:25:56.489069+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-02-07T06:17:43.439002+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时25分]"
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 06时17分]"
         },
         {
           "title": "美国黄金期货价格在数据发布延迟后收于4979.8美元/盎司。",
@@ -26,8 +26,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时25分]"
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 06时17分]"
         }
       ]
     }
