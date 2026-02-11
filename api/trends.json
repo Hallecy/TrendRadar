@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T06:24:38.581715+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2026-02-12T07:26:36.198599+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260212055643823800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时26分]"
         },
         {
           "title": "依视路陆逊梯卡：AI眼镜价格将上涨。",
