@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-12T12:20:27.569172+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-02-12T14:01:43.263536+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "智谱午后涨幅扩大至40%，公司上调AI编程订阅套餐价格并将推出新模型。",
+          "url": "https://wallstreetcn.com/livenews/3054213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时01分"
+        },
         {
           "title": "美联储哈玛克：黄金和金属价格上涨可能与通胀有关。",
           "url": "https://flash.jin10.com/detail/20260212055643823800",
@@ -38,7 +49,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -49,7 +60,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         }
