@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-02-21T23:19:33.001351+08:00",
-  "total_titles_processed": 1458,
+  "generated_at": "2026-02-22T00:22:16.046286+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "SK海力士：AI需求推动内存价格全年看涨，客户库存仅4周",
-          "url": "https://flash.jin10.com/detail/20260221184309452800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时18分 ~ 22时21分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://Hallecy.github.io/TrendRadar/img/news.jpg"
 }
