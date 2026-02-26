@@ -1,50 +1,7 @@
 {
-  "generated_at": "2026-02-26T23:48:41.137783+08:00",
-  "total_titles_processed": 2009,
+  "generated_at": "2026-02-27T00:52:17.643971+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "摩根大通上调黄金长期价格预期至4500美元，维持2026年底目标价6300美元不变",
-          "url": "https://www.cls.cn/detail/2295242",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时26分 ~ 15时48分]"
-        },
-        {
-          "title": "印度证券交易委员会：经认可的证券交易所公布的即期价格可用于对共同基金计划持有的黄金和白银进行估值。",
-          "url": "https://flash.jin10.com/detail/20260226184611823800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        },
-        {
-          "title": "印度证券交易委员会：自4月1日起，共同基金将采用经认可证券交易所公布的即期现货价格对实物黄金和白银进行估值。",
-          "url": "https://flash.jin10.com/detail/20260226184527380800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://Hallecy.github.io/TrendRadar/img/news.jpg"
 }
