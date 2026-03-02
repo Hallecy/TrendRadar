@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T21:56:48.822000+08:00",
-  "total_titles_processed": 1980,
+  "generated_at": "2026-03-02T22:40:01.018597+08:00",
+  "total_titles_processed": 2071,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "黄金避险和抗通胀功能凸显，局势走向左右价格波动幅度",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时20分 ~ 07时18分]"
+        },
+        {
+          "title": "现货金银价格回落，美股黄金概念股走势分化，纽蒙特矿业(NEM.N)涨0.53%，科尔黛伦矿业(CDE.N)跌1.8%，泛美白银(PAAS.O)跌1.5%。",
+          "url": "https://flash.jin10.com/detail/20260302223225321800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         }
       ]
     }
