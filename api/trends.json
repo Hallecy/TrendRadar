@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T21:58:26.632437+08:00",
-  "total_titles_processed": 1939,
+  "generated_at": "2026-03-20T22:42:11.499998+08:00",
+  "total_titles_processed": 2007,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "13时46分"
         },
         {
+          "title": "黄金白银价格为何双双暴跌",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E5%8F%8C%E5%8F%8C%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时28分 ~ 22时42分]"
+        },
+        {
           "title": "贵金属价格狂泄！现货黄金逼近4500美元，白银大跌超13%",
           "url": "https://m.thepaper.cn/newsDetail_forward_32796580",
           "source": "澎湃新闻",
@@ -29,19 +42,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时24分 ~ 09时27分]"
-        },
-        {
-          "title": "黄金白银价格为何双双暴跌",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E5%8F%8C%E5%8F%8C%E6%9A%B4%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时28分 ~ 21时58分]"
         }
       ]
     }
