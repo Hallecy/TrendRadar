@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-22T09:43:56.777954+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-03-22T12:14:37.016551+08:00",
+  "total_titles_processed": 724,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "信达期货：当前黄金走势的核心在于能源价格上行对利率预期的再约束",
+          "url": "https://flash.jin10.com/detail/20260322112216406800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
         {
           "title": "现货黄金价格跌破4500美元，创43年最大单周跌幅",
           "url": "https://m.thepaper.cn/newsDetail_forward_32805437",
@@ -14,7 +25,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         }
