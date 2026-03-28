@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-03-28T23:25:41.970185+08:00",
-  "total_titles_processed": 1659,
+  "generated_at": "2026-03-29T00:27:04.783672+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "现货黄金价格深夜再度跳水，一度跌逾3%！金价为何“上蹿下跳”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32841691",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时46分 ~ 09时29分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://Hallecy.github.io/TrendRadar/img/news.jpg"
 }
