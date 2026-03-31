@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-31T19:56:04.340169+08:00",
-  "total_titles_processed": 1661,
+  "generated_at": "2026-03-31T21:02:24.342268+08:00",
+  "total_titles_processed": 1778,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "技术刘Pro：国际现货黄金双峰结构稳固，价格延续需...",
+          "url": "https://flash.jin10.com/detail/20260331203502441800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://Hallecy.github.io/TrendRadar/img/news.jpg"
 }
