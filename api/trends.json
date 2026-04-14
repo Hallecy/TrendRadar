@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-04-14T23:09:26.586435+08:00",
-  "total_titles_processed": 1834,
+  "generated_at": "2026-04-15T00:59:28.725213+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "当AI算力不再便宜：云服务价格“只降不升”行业惯例被打破意味着什么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32961502",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://Hallecy.github.io/TrendRadar/img/news.jpg"
 }
