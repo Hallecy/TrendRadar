@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T18:57:20.147325+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2026-04-27T20:19:12.923555+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时36分 ~ 16时11分]"
+        },
+        {
+          "title": "中东冲突威胁经济与汽车业，分析师下调2026年铂金钯金价格预测",
+          "url": "https://flash.jin10.com/detail/20260427195404149800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         }
       ]
     }
