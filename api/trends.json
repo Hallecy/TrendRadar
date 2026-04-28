@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-04-28T23:24:20.164473+08:00",
-  "total_titles_processed": 1616,
+  "generated_at": "2026-04-29T01:43:09.112917+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "黄金价格跌跌不休",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时12分 ~ 16时13分]"
-        },
-        {
-          "title": "德商银行：预计钯金价格将在今年年底前上涨至1800美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260428182352632800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
-          "title": "德商银行：如果油价持续上涨，黄金价格可能会回落至4500美元/盎司附近。",
-          "url": "https://flash.jin10.com/detail/20260428182036647800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://Hallecy.github.io/TrendRadar/img/news.jpg"
 }
