@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T21:42:18.567886+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-05-12T00:28:18.489104+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "市场消息：印度正在考虑采取措施增强外汇储备，包括限制非必要的黄金和电子产品进口，以及提高燃油价格。",
-          "url": "https://flash.jin10.com/detail/20260511211253879800",
-          "source": "金十数据",
+          "title": "现货白银日内涨幅扩大至7%，报85.97美元/盎司。现货黄金价格涨0.35%，报4731.85美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3101773",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时42分"
+          "time_info": "00时28分"
         }
       ]
     }
