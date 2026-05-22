@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T14:44:32.401414+08:00",
-  "total_titles_processed": 1017,
+  "generated_at": "2026-05-22T18:20:45.245820+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国里士满联储主席Barkin（2027年FOMC票委）：对职责（实现充分就业+维持价格稳定）两个方面的感到神经紧张。 当前不是实施强有力前瞻指引的时机。 我所接触到的每一个人都在谈论AI相关的失业问题。 周二会见了候任美联储主席沃什，他没有透露自己会在美联储做什么。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "黄金价格不断下跌 货币重置开始了吗",
+          "url": "https://www.toutiao.com/trending/7642595063947595305/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         }
       ]
     }
