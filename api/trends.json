@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-25T10:47:54.051602+08:00",
-  "total_titles_processed": 769,
+  "generated_at": "2026-05-25T15:08:26.408797+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印度财政部长：国际原油价格高企、化肥价格上涨以及金价攀升，给外部经济环境带来了一些挑战。",
+          "url": "https://flash.jin10.com/detail/20260525143213485800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://Hallecy.github.io/TrendRadar/img/news.jpg"
 }
