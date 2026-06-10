@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-10T15:03:51.045788+08:00",
-  "total_titles_processed": 956,
+  "generated_at": "2026-06-10T19:34:23.761628+08:00",
+  "total_titles_processed": 1171,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "分析｜受AI产业热潮、价格因素等推动，5月进出口双双高增",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33344044",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://Hallecy.github.io/TrendRadar/img/news.jpg"
 }
