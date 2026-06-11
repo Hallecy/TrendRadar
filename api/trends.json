@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-11T10:56:47.575544+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2026-06-11T15:26:14.819923+08:00",
+  "total_titles_processed": 908,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
+          "url": "https://www.cls.cn/detail/2396831",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://Hallecy.github.io/TrendRadar/img/news.jpg"
 }
