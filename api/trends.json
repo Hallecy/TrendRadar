@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-06-13T04:01:45.427933+08:00",
-  "total_titles_processed": 407,
-  "failed_sources": [
-    "ifeng"
-  ],
+  "generated_at": "2026-06-13T05:50:26.722801+08:00",
+  "total_titles_processed": 477,
+  "failed_sources": [],
   "trends": [],
   "report_image_url": "https://Hallecy.github.io/TrendRadar/img/news.jpg"
 }
