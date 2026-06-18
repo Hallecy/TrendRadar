@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-06-18T18:11:49.660768+08:00",
-  "total_titles_processed": 1071,
-  "failed_sources": [],
+  "generated_at": "2026-06-18T22:03:04.993691+08:00",
+  "total_titles_processed": 1245,
+  "failed_sources": [
+    "toutiao",
+    "baidu",
+    "thepaper",
+    "bilibili-hot-search",
+    "cls-hot",
+    "ifeng"
+  ],
   "trends": [
     {
       "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
