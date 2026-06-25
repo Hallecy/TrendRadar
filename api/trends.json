@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T08:03:30.243418+08:00",
-  "total_titles_processed": 706,
+  "generated_at": "2026-06-25T12:59:42.323193+08:00",
+  "total_titles_processed": 947,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "现货黄金价格跌破4000美元大关",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时12分 ~ 02时36分]"
+        },
+        {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         }
       ]
     }
