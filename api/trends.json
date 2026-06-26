@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T10:43:14.025831+08:00",
-  "total_titles_processed": 758,
+  "generated_at": "2026-06-26T14:49:23.043656+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "“1/6的价格，打爆美国AI护城河”——智谱开源模型GLM 5.2震动硅谷",
@@ -15,8 +15,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
+          "appearance_count": 4,
+          "time_info": "[10时42分 ~ 14时49分]"
+        },
+        {
+          "title": "意大利竞争管理局因“Microsoft 365”订阅价格上涨对微软(MSFT.O)展开调查。",
+          "url": "https://flash.jin10.com/detail/20260626140603242800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
         }
       ]
     }
