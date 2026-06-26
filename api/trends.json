@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-26T07:12:08.578929+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-06-26T10:43:14.025831+08:00",
+  "total_titles_processed": 758,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“1/6的价格，打爆美国AI护城河”——智谱开源模型GLM 5.2震动硅谷",
+          "url": "https://wallstreetcn.com/articles/3775500",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 10时43分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://Hallecy.github.io/TrendRadar/img/news.jpg"
 }
