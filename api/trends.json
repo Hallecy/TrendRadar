@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-07-02T14:35:40.431776+08:00",
-  "total_titles_processed": 933,
-  "failed_sources": [],
+  "generated_at": "2026-07-02T18:02:10.517974+08:00",
+  "total_titles_processed": 1133,
+  "failed_sources": [
+    "tieba"
+  ],
   "trends": [
     {
       "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
