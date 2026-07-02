@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-07-02T18:02:10.517974+08:00",
-  "total_titles_processed": 1133,
-  "failed_sources": [
-    "tieba"
-  ],
+  "generated_at": "2026-07-02T20:06:33.617839+08:00",
+  "total_titles_processed": 1294,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "国际黄金价格跌破 4000 美元 / 盎司后，未来有可能进一步跌到 3000 美元 / 盎司吗？",
@@ -21,6 +19,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时48分 ~ 07时07分]"
+        },
+        {
+          "title": "好多人为啥根本意识不到，就算 AI 崩盘，消费级 DDR 内存也不会暴跌至远低于 2024 年的低位价格？",
+          "url": "https://www.zhihu.com/question/2052018919150450628",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
         }
       ]
     }
