@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-07-05T23:09:02.677910+08:00",
-  "total_titles_processed": 1283,
+  "generated_at": "2026-07-06T01:02:22.818169+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "AI投资进入落地阶段 半导体价格开始显著上涨",
-          "url": "https://flash.jin10.com/detail/20260705094741928800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "招金黄金：若未来黄金价格大幅波动 将对公司经营业绩产生较大影响",
-          "url": "https://flash.jin10.com/detail/20260705160914671800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时38分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://Hallecy.github.io/TrendRadar/img/news.jpg"
 }
