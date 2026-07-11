@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T22:47:04.546802+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2026-07-11T23:48:45.335616+08:00",
+  "total_titles_processed": 1536,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             10,
             9,
             6,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时21分 ~ 22时47分]"
+          "appearance_count": 7,
+          "time_info": "[17时21分 ~ 23时48分]"
         },
         {
           "title": "美联储半年度报告：通胀今春进一步升温，AI基建成推高通胀新因素，重申稳定价格承诺",
