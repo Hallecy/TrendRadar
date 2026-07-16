@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T20:17:45.316177+08:00",
-  "total_titles_processed": 1545,
+  "generated_at": "2026-07-16T22:54:54.672478+08:00",
+  "total_titles_processed": 1708,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             9,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时53分 ~ 20时17分]"
+          "appearance_count": 12,
+          "time_info": "[06时53分 ~ 22时54分]"
         },
         {
           "title": "国会山作证第二天，沃什称：AI造成的价格效应未必推高通胀",
@@ -39,7 +40,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时17分"
         }
