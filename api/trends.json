@@ -1,33 +1,22 @@
 {
-  "generated_at": "2026-07-24T22:49:27.461953+08:00",
-  "total_titles_processed": 1519,
+  "generated_at": "2026-07-25T00:49:12.830212+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
           "url": "https://wallstreetcn.com/articles/3777849",
           "source": "华尔街见闻",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "学者：黄金价格尚未迎来击球区",
-          "url": "https://www.toutiao.com/trending/7665878483473550911/",
-          "source": "今日头条",
-          "ranks": [
-            24
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时10分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 00时49分]"
         }
       ]
     }
