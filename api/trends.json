@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T20:26:49.180512+08:00",
-  "total_titles_processed": 1552,
+  "generated_at": "2026-07-31T01:19:55.363866+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美联储主席沃什：高科技（企业的）资本开支激增的现象非常突出。 资本开支为未来的（美国经济）增长做铺垫。 资本开支对供给侧影响的时间点是难以预料的。 资本开支繁荣正推高AI基础设施的价格。",
-          "url": "https://wallstreetcn.com/livenews/3141843",
+          "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
+          "url": "https://wallstreetcn.com/livenews/3142590",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时03分"
+          "time_info": "01时19分"
         }
       ]
     }
