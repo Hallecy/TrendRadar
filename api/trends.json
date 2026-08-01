@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T22:55:22.727247+08:00",
-  "total_titles_processed": 1389,
+  "generated_at": "2026-08-01T23:56:50.978609+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "泰达币发行人Tether的黄金储备在6月末达到188亿美元，（按当时现货价格）等同于146吨（金条）。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "OpenAI 价格战",
+          "url": "https://s.weibo.com/weibo?q=OpenAI%20%E4%BB%B7%E6%A0%BC%E6%88%98&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         }
       ]
     }
