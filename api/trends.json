@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-08-11T20:48:39.045267+08:00",
-  "total_titles_processed": 1718,
+  "generated_at": "2026-08-12T00:52:45.698865+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "微软 AI 甲骨文 google gemini chatgpt openai 英伟达 金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI：高级席位（Premium Seats）价格为每位用户每月125美元，按年付费则为每位用户每月100美元。",
-          "url": "https://flash.jin10.com/detail/20260811005131000800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://Hallecy.github.io/TrendRadar/img/news.jpg"
 }
