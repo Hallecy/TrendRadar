@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T19:40:12.032856+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2026-08-14T20:49:34.395978+08:00",
+  "total_titles_processed": 1395,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://news.ifeng.com/c/8vaN8Ao6xPg",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 19时40分]"
+          "appearance_count": 4,
+          "time_info": "[18时52分 ~ 20时49分]"
         },
         {
           "title": "黄金价格反弹意味什么",
